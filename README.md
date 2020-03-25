@@ -14,8 +14,9 @@ The connection method is a serial connection to the HT module.
 The hitinga module completes offline and online commands and converts it to a serial protocol.
 
 note:
-1，Light directory is stored in the light demo program
-2，The air directory stores the air-conditioning demo program
+1，Light directory is stored in the light demo program.
+2，The air directory stores the air-conditioning demo program.
+
 
 In particular:
 Currently offline voice only supports Chinese, and an English version will be released later.
